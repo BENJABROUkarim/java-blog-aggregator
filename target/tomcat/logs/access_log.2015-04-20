@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [20/Apr/2015:00:20:50 +0100] "GET /java-blog-aggregator/index.html HTTP/1.1" 500 10262 http-bio-8080-exec-1 160
+0:0:0:0:0:0:0:1 - - [20/Apr/2015:00:20:58 +0100] "GET /java-blog-aggregator/ HTTP/1.1" 200 275 http-bio-8080-exec-2 939
